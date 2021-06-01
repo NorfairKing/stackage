@@ -3956,6 +3956,8 @@ packages:
         - mergeless
         - pretty-relative-time
         - safe-coloured-text < 0.1.0.0 # https://github.com/commercialhaskell/stackage/issues/6046
+        - safe-coloured-text-layout
+        - safe-coloured-text-layout-terminfo
         - sydtest
         - sydtest-discover
         - sydtest-persistent-sqlite
